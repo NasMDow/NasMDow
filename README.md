@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasMDow
-- 👀 I’m interested in lots!
+- 👀 I’m interested in lots of things!
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on useful products 
 
